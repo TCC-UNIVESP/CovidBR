@@ -22,5 +22,5 @@ nova_base = base.head(100)
 #dados_nulos = nova_base.isnull().sum().plot()
 dados_nulos = nova_base.isnull().sum().plot()
 dados_nulos.plot()
-
+# o plot foi apenas um teste.
 nova_base.info()
