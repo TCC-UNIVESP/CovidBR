@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Lista de reprodução</title>
+	<trackList>
+		<track>
+			<location>https://r3---sn-oxunxg8pjvn-j29s7.googlevideo.com/videoplayback?expire=1617911778&amp;ei=ggtvYJCNMpHowgSGuKygBg&amp;ip=179.156.144.253&amp;id=o-AMkKWSmePQ2L9UpeUi7yQOTmyImXvsDboVJ8gHKWvdVX&amp;itag=22&amp;source=youtube&amp;requiressl=yes&amp;mh=Gg&amp;mm=31%2C29&amp;mn=sn-oxunxg8pjvn-j29s7%2Csn-bg0eznll&amp;ms=au%2Crdu&amp;mv=m&amp;mvi=3&amp;pcm2cms=yes&amp;pl=21&amp;initcwndbps=748750&amp;vprv=1&amp;mime=video%2Fmp4&amp;ns=PM_Qh8Z-iwY8097XqOpNRoQF&amp;ratebypass=yes&amp;dur=507.472&amp;lmt=1597706431988658&amp;mt=1617889978&amp;fvip=3&amp;fexp=24001373%2C24007246&amp;c=WEB&amp;txp=6216222&amp;n=Lh8cX0GkcusMeeH4&amp;sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cvprv%2Cmime%2Cns%2Cratebypass%2Cdur%2Clmt&amp;sig=AOq0QJ8wRAIgch_fj1kGHapnWmdWNxHatw8sv4Ye6z6gFDRgEAkLdlkCIB2YPRjzzY0Bh59k3lD_GYlrwCrdtRc0tjHihbvCtN7w&amp;lsparams=mh%2Cmm%2Cmn%2Cms%2Cmv%2Cmvi%2Cpcm2cms%2Cpl%2Cinitcwndbps&amp;lsig=AG3C_xAwRgIhAJq5dwDqcr33IYJUbgJbDKK6I4BdWThFhAdey2eJxSDkAiEAih4xvOWWAQHRej0NYn_0y0bxA-AsjAeqe6ZHT0VueUQ%3D</location>
+			<title>Curso de Pandas - Python (Aula 1.7) - DataFrame (e um pouco de apply e applymap) - Parte 3</title>
+			<creator>Zurubabel</creator>
+			<annotation>Nesta vídeo aula do curso de pandas eu falo sobre como adicionar e remover colunas e também adianto um pouco as aulas e demonstro como fazer um apply e um applymap para tratar algumas strings.
+
+Vídeo anterior:
+
+Seja membro deste canal:
+https://www.youtube.com/Zurubabel/join
+
+Apoia.se
+https://apoia.se/zurubabel
+
+Youtube
+https://www.youtube.com/Zurubabel
+
+Github
+https://github.com/Zurubabel</annotation>
+			<info>https://www.youtube.com/watch?v=ij8-1HfoDPE&amp;list=PL4OAe-tL47sa1McMctk5pdPd5eTAp3drk&amp;index=20</info>
+			<image>file:///C:/Users/CristianoSantanaCunh/AppData/Roaming/vlc/art/arturl/d3704781e7dc5763098a3cb3ecdf750e/art</image>
+			<duration>507425</duration>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>0</vlc:id>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.youtube.com/watch?v=U_nOQgHM0HM&amp;list=PL4OAe-tL47sa1McMctk5pdPd5eTAp3drk&amp;index=22</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>1</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.youtube.com/watch?v=q5PBBo1lflY&amp;list=PL4OAe-tL47sa1McMctk5pdPd5eTAp3drk&amp;index=24</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>2</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+		<track>
+			<location>https://www.youtube.com/watch?v=5Fjh1TofoMQ&amp;list=PL4OAe-tL47sa1McMctk5pdPd5eTAp3drk&amp;index=25</location>
+			<extension application="http://www.videolan.org/vlc/playlist/0">
+				<vlc:id>3</vlc:id>
+				<vlc:option>network-caching=1000</vlc:option>
+			</extension>
+		</track>
+	</trackList>
+	<extension application="http://www.videolan.org/vlc/playlist/0">
+		<vlc:item tid="0"/>
+		<vlc:item tid="1"/>
+		<vlc:item tid="2"/>
+		<vlc:item tid="3"/>
+	</extension>
+</playlist>

@@ -5,7 +5,7 @@ Arquivo CSV localizado em: https://opendatasus.saude.gov.br/dataset/bd-srag-2021
 
 
 Dia 07 de Abril:
-Após um primeiro contato com os dados, vislumbramos (a princípio) três possibilidades de análise de daos:
+Após um primeiro contato com os dados, vislumbramos (a princípio) três possibilidades de análise de dados:
 1) Verificar efeito da vacinação e lockdown durante o pico da Covid-19 nos meses de março e abril de 2021. Para isso partir da comparação da progressão do Covid-19 por faixa etária antes e depois da vacinação da primeira dose e da segunda dose.
  
 2) Treinar algorítmo para realizar a predição de sucesso do tratamento frente a resultado dos exames. 
